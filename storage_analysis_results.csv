@@ -1,0 +1,7 @@
+website,mode,localStorage,sessionStorage,indexedDB
+https://www.ebay.com,normal,22,11,1
+https://www.cnn.com,normal,116,18,1
+https://www.docs.google.com,normal,6,6,0
+https://www.ebay.com,incognito,18,9,1
+https://www.cnn.com,incognito,115,18,1
+https://www.docs.google.com,incognito,6,6,0
